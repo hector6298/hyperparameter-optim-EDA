@@ -1,6 +1,8 @@
 # Estimation of Distribution Evolutionary Algorithm for Hyperparameter Optimization
 
-Wow what a mouthful. Just a simple hyperparameter optimization algorithm based on EDA for machine learning classifiers.
+Wow what a mouthful. 
+
+Just a simple hyperparameter optimization algorithm based on EDA for machine learning classifiers.
 
 ## Getting Started
 
@@ -65,7 +67,7 @@ That's it!
 
 ## TODOs:
 
-#TODO Make changes to accept categorical hyperparameters
-#TODO add verbosity parameter and implement logs accordingly
-#TODO implement data split when folds=1
-#TODO Implement hyperparameter boundaries support for common ML models (currently only supports RF)
+- #TODO Make changes to accept categorical hyperparameters
+- #TODO add verbosity parameter and implement logs accordingly
+- #TODO implement data split when folds=1
+- #TODO Implement hyperparameter boundaries support for common ML models (currently only supports RF)
