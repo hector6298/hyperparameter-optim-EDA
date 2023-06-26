@@ -1,7 +1,5 @@
 # Estimation of Distribution Evolutionary Algorithm for Hyperparameter Optimization
 
-Wow what a mouthful. 
-
 Just a simple hyperparameter optimization algorithm based on EDA for machine learning classifiers.
 
 ## Getting Started
